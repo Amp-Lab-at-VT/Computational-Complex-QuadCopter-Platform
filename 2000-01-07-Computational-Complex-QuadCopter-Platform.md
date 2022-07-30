@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: Computational Complex QuadCopter Platform
