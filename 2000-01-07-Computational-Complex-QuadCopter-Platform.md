@@ -27,7 +27,7 @@ Alexander Freeman
 Daniel Graves
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Computational-Complex-QuadCopter-Platform"" >Computational-Complex-QuadCopter-Platform</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Computational-Complex-QuadCopter-Platform" >Computational-Complex-QuadCopter-Platform</a>
 
 ## Photo
 
