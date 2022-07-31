@@ -9,11 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Ryan Burrow
-Ryan Doan
-Alexander Van Brunt
-Alexander Freeman
-Daniel Graves
+author: Ryan BurrowRyan Doan, Alexander Van Brunt, Alexander Freeman, Daniel Graves
 show_sidebar: false
 ---
 
